@@ -7,7 +7,7 @@ import Box from "@mui/material/Box"
 import { useSpring, animated } from "react-spring"
 import Lottie from "lottie-react"
 import lottie from "../data/lottie.json"
-import webaMark from "../ui/loading/webaMark.svg"
+import atlasLogo from "../ui/loading/atlasLogo.svg"
 import { LoadingStyleBox } from "../styles/LoadingOverlaystyle"
 
 function CircularProgressWithLabel(
@@ -51,8 +51,8 @@ function CircularProgressWithLabel(
       />
       <div className = "logo-container">
         <animated.div style={{ ...loadingAnimation }}>
-          <img className="webamark"
-            src={webaMark}
+          <img className="atlaslogo"
+            src={atlasLogo}
           />
         </animated.div>
         <div className="logo-gradient"></div>

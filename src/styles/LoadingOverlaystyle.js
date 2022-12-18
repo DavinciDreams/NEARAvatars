@@ -55,7 +55,7 @@ export const LoadingStyleBox = styled.div`
         bottom: 0;
         position: absolute;
 
-        .webamark {
+        .atlaslogo {
             position : absolute;
             left : 50%;
             transform : translate(-50%, 30%);
