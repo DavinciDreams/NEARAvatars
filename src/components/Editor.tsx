@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react"
 import useSound from 'use-sound';
 import gsap from 'gsap';
 import shuffle from "../ui/traits/shuffle.png"
-import atlasMark from "../ui/traits/atlasLogo.png"
+import atlasMark from "../ui/traits/atlasMark.png"
 import optionClick from "../sound/option_click.wav"
 import {useMuteStore, useHideStore} from '../store'
 
