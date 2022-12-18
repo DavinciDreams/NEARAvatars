@@ -147,11 +147,11 @@ export default function Landing(props){
             }
             <animated.div style = {{...titleAnimation}}>
                     <div className="topBanner" >     
-                        <img className ="webaverse-text" src={logo} />
-                        <div className='studio' >Character Studio</div>
+                        <img className ="atlas-text" src={logo} />
+                        <div className='studio' >Character Creator</div>
                     </div>
                     <div className="subTitle" >
-                        <div className='subTitle-text'>Pick a Class
+                        <div className='subTitle-text'>Pick Your Avatar
                             <div className="subTitle-desc"> You'll be able to customize in a moment.</div>
                         </div>
                     </div>

@@ -27,7 +27,7 @@ export const StyledLanding = styled.div `
     
         .studio { 
             color : #61E5F9;
-            font-family : 'Proxima';
+            font-family : 'Roboto';
             font-style : normal; 
             font-weight : 800;
             font-size : calc(30vh * 0.118);
