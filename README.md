@@ -1,4 +1,4 @@
-# Webaverse Character Creator
+# Character Creator
 An open, collaborative and evolving 3D avatar creator and optimizer for the open metaverse.
 
 

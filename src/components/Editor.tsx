@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react"
 import useSound from 'use-sound';
 import gsap from 'gsap';
 import shuffle from "../ui/traits/shuffle.png"
-import webaMark from "../ui/traits/webaMark.png"
+import atlasMark from "../ui/traits/atlasLogo.png"
 import optionClick from "../sound/option_click.wav"
 import {useMuteStore, useHideStore} from '../store'
 
@@ -87,7 +87,7 @@ export default function Editor(props: any) {
     <Stack alignItems="center"> 
         
         <MenuTitle>
-          <MenuImg src={webaMark} />
+          <MenuImg src={atlasMark} />
         </MenuTitle>
 
         <LineDivision bottom = {'20px'}/>
