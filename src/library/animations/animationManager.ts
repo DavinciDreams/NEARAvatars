@@ -7,6 +7,7 @@ import { VRM } from '@pixiv/three-vrm'
 // make a class that hold all the informarion
 const fbxLoader = new FBXLoader();
 const gltfLoader = new GLTFLoader();
+const vrmLoader = new VRMLoader();
 const interpolationTime = 0.2;
 
 const getRandomInt = (max) => {
