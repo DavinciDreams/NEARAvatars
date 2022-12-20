@@ -24,6 +24,7 @@
     "react-router-dom": "^6.2.2"
   },
   "scripts": {
+    "dev": "vite",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
